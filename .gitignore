@@ -1,0 +1,31 @@
+# SYSTEM FILES
+*~
+.DS_Store
+.svn
+.cvs
+.project
+.settings
+.idea
+.vagrant
+.buildpath
+*.bak
+*.swp
+*.map
+Thumbs.db
+parser.sh
+
+# LARAVEL PROJECT EXCLUSIONS
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+Homestead.json
+#Homestead.yaml
+npm-debug.log
+.env
+.env.testing
+composer.phar
+.phpstorm.meta.php
+_ide_helper.php
+config/ide-helper.php
